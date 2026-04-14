@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Jayanta Das 👋
 
-<!--
-**jayantadas1602/jayantadas1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A career transitioner with 4 years of disciplined UPSC preparation,
+now fully focused on Software Quality Assurance.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+| Area | Tools |
+|---|---|
+| Manual Testing | Test Planning, Test Cases, Bug Reporting, RTM |
+| Automation | Selenium, Java, TestNG, Page Object Model |
+| Tools | JIRA, Git, GitHub, Eclipse, TestRail, Jenkins  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projects
+- 🔗 [Manual Testing – OrangeHRM](https://github.com/jayantadas1602/ManualTesting-OrangeHRM.git)
+
+### 📫 Contact
+- LinkedIn: www.linkedin.com/in/jayanta99
+- Email: jayantastarship@gmail.com
