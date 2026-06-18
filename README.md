@@ -12,6 +12,7 @@ now fully focused on Software Quality Assurance.
 
 ### 📁 Projects
 - 🔗 [Manual Testing – OrangeHRM](https://github.com/jayantadas1602/ManualTesting-OrangeHRM.git)
+- 🔗 [Test Automation – NinzaHRM](https://github.com/jayantadas1602/NinzaCRMAutomation.git)
 
 ### 📫 Contact
 - LinkedIn: www.linkedin.com/in/jayanta99
